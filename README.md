@@ -1,15 +1,15 @@
-# iconistic
+# 🚀 iconistic
 
 Meet iconistic! An icon set with 150+ free icons for yours projects.
 Check a list of avaible icons [clicking here](https://2l-studios.com/iconistic/)
 
-## Installation
+## 🔧 Installation
 
 clone or download the repository [download](https://github.com/sammwyy/iconistic/archive/master.zip)  
 put "dist/iconistic.min.css" in your css folder and import it in your html file  
 put directory "fonts/" in the same directory of your "css" folder  
 
-## Usage
+## 📦 Usage
 use <i class="icon-{icon_name}></i> for use a icon  
 ```html
 <a href="happy.html"> <i class="icon-happy"></i> Happy! </a>
@@ -37,10 +37,10 @@ and can modify the icon color without modify the text:
 <a> <i class="icon-black icon-happy"></i> Black </a>
 ```
 
-## Contributing
+## 🛠️ Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+## 📄 License
 [MIT](https://choosealicense.com/licenses/mit/)
