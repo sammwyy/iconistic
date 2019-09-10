@@ -1,0 +1,30 @@
+* {
+	font-family: 'Comfortaa', cursive;
+}
+
+.content {
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	width: 100%;
+	position: fixed;
+	height: 100%;
+	overflow-y: scroll;
+}
+
+.icon-list {
+	margin-top: 50px;
+	font-size: 20px;
+	width: 70%;
+	display: inline-block;
+}
+
+.icon-list a {
+	display: inline-block;
+	margin: 5px;
+	padding: 20px;
+	background-color: lightgrey;
+	border-radius: 10px;
+	color: #333;
+}
