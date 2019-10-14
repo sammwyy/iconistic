@@ -1,7 +1,7 @@
 # 🚀 iconistic
 
 Meet iconistic! An icon set with 150+ free icons for yours projects.
-Check a list of avaible icons [clicking here](https://2l-studios.com/iconistic/)
+Check a list of avaible icons [clicking here](https://2l-studios.com/proyectos/iconistic/)
 
 ## 🔧 Installation
 
