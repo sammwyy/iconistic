@@ -10,7 +10,7 @@ put "dist/iconistic.min.css" in your css folder and import it in your html file
 put directory "fonts/" in the same directory of your "css" folder  
 
 ## 📦 Usage
-use <i class="icon-{icon_name}></i> for use a icon  
+use <i class="icon-{icon_name}></i> for use a icon:  
 ```html
 <a href="happy.html"> <i class="icon-happy"></i> Happy! </a>
 ```
