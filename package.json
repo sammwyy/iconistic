@@ -3,5 +3,16 @@
   "version": "1.2.1",
   "description": "An icon set with 150+ free icons for yours projects",
   "author": "Sammwy",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/sammwyy/iconistic.git"
+  },
+  "keywords":["iconistic", "css", "icons", "fonticon"],
+  "author": "Sammwy <sammwy.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+  	"url": "https://github.com/sammwyy/iconisticiconistic/issues"
+  },
+  "homepage": "https://github.com/sammwyy/iconistic"
 }
